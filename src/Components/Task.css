@@ -1,0 +1,45 @@
+.person{
+    
+        background: #0000007d;
+        height: 123px;
+        width: 350px;
+        color: white;
+        margin-bottom: 20px;
+        border-radius: 30px;
+        /* border: 2px solid; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        /* gap: 50px; */
+        padding: 0px 34px;
+    
+}
+.body{
+    background-color: aqua;
+}
+.person img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+.container{
+    /* height: 890px; */
+    /* border: 2px solid;
+    bor */
+    border-radius: 20px;
+    width: fit-content;
+    padding: 0px 30px;
+    margin: auto;
+    background-color: #a56ba5;
+}
+button{
+    padding: 10px 40px;
+    background: purple;
+    border: none;
+    outline: none;
+    color: whitr;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
